@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC05EB2B-D384-46BF-8CFB-66D32AF9EE9B}|..\\Test\\Test.csproj|f:\\prog-labo 2\\pp_escaner_barinsteinivo\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|solutionrelative:mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|solutionrelative:documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|solutionrelative:escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|f:\\prog-labo 2\\pp_escaner_barinsteinivo\\entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|solutionrelative:informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1E74FC4A-9EAC-4C7F-9132-6356316CF392}|Entidades.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Documento.cs",
+              "RelativeDocumentMoniker": "Documento.cs",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Documento.cs",
+              "RelativeToolTip": "Documento.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wEcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:41:42.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Libro.cs",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Libro.cs",
+              "RelativeToolTip": "Libro.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:59:23.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Mapa.cs",
+              "RelativeDocumentMoniker": "Mapa.cs",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Mapa.cs",
+              "RelativeToolTip": "Mapa.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:53:18.321Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Escaner.cs",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Escaner.cs",
+              "RelativeDocumentMoniker": "Escaner.cs",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Escaner.cs",
+              "RelativeToolTip": "Escaner.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwHoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:28:56.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Informes.cs",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Informes.cs",
+              "RelativeDocumentMoniker": "Informes.cs",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\Informes.cs",
+              "RelativeToolTip": "Informes.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:34:45.687Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Test\\Test.cs",
+              "RelativeDocumentMoniker": "..\\Test\\Test.cs",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Test\\Test.cs",
+              "RelativeToolTip": "..\\Test\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:24:18.715Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "F:\\Prog-Labo 2\\PP_Escaner_BarinsteinIvo\\Entidades\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-16T05:53:05.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

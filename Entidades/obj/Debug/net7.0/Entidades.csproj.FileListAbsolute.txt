@@ -1,0 +1,11 @@
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\bin\Debug\net7.0\Entidades.deps.json
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\bin\Debug\net7.0\Entidades.dll
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\bin\Debug\net7.0\Entidades.pdb
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\Entidades.dll
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\Entidades.pdb
+F:\Prog-Labo 2\PP_Escaner_BarinsteinIvo\Entidades\obj\Debug\net7.0\ref\Entidades.dll
